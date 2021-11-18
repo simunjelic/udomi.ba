@@ -6,3 +6,4 @@ Tehnologije : HTML,CSS
 
 Autori : Blaž Stipić 
          Šimun Jelić.
+ej sime  ja sam  ovdje
