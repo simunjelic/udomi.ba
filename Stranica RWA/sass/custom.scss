@@ -1,0 +1,18 @@
+$primary: rgb(255, 94, 0);
+$body-bg: rgb(245, 245, 245);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.navRight {
+    font-size: 1.3rem;
+}
+.dog1 {
+    height: 200px;
+    width: 200px;
+}
+.card body p {
+    color: rgb(139, 139, 139);
+}
+.zasto {
+    width: 60%;
+}
