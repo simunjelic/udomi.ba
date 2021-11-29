@@ -11978,4 +11978,9 @@ fieldset:disabled .btn {
 .zasto {
   width: 60%;
 }
+
+.card-text {
+  height: 270px;
+  text-align: justify;
+}
 /*# sourceMappingURL=custom.css.map */
