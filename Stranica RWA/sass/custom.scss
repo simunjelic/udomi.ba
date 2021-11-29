@@ -17,7 +17,11 @@ $body-bg: rgb(245, 245, 245);
     width: 60%;
 }
 .card-text {
-    height: 270px;
+    
     text-align: justify;
+}
+.card{
+    display: static;
+    height:550px;
     
 }
