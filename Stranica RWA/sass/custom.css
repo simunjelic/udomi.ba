@@ -11980,11 +11980,8 @@ fieldset:disabled .btn {
 }
 
 .card-text {
-  text-align: justify;
-}
-
-.card {
   display: static;
-  height: 550px;
+  height: 270px;
+  text-align: justify;
 }
 /*# sourceMappingURL=custom.css.map */
