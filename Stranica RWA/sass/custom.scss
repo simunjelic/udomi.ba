@@ -1,6 +1,7 @@
 $primary: rgb(255, 94, 0);
 $body-bg: rgb(245, 245, 245);
 
+
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 .navRight {
@@ -16,9 +17,13 @@ $body-bg: rgb(245, 245, 245);
 .zasto {
     width: 60%;
 }
+/*------------------------------------------
 .card-text {
     
     display: static;
     height:270px;
     text-align: justify;
 }
+
+
+*/
