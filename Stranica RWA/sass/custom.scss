@@ -1,8 +1,10 @@
-$primary: rgb(255, 94, 0);
+$primary: #ff5e00;
 $body-bg: rgb(245, 245, 245);
 
 
 @import "../node_modules/bootstrap/scss/bootstrap";
+
+
 
 .navRight {
     font-size: 1.3rem;
@@ -17,6 +19,8 @@ $body-bg: rgb(245, 245, 245);
 .zasto {
     width: 60%;
 }
+
+
 /*------------------------------------------
 .card-text {
     
