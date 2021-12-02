@@ -5,7 +5,9 @@ $body-bg: rgb(245, 245, 245);
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 
-
+.boja {
+    color: rgb(105, 105, 105);
+}
 .navRight {
     font-size: 1.3rem;
 }
@@ -23,6 +25,7 @@ $body-bg: rgb(245, 245, 245);
     width: 150px;
     height: 150px;
 }
+
 
 /*------------------------------------------
 .card-text {

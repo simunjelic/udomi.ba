@@ -11962,6 +11962,10 @@ fieldset:disabled .btn {
   }
 }
 
+.boja {
+  color: dimgray;
+}
+
 .navRight {
   font-size: 1.3rem;
 }
