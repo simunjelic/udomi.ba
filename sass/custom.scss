@@ -1,0 +1,40 @@
+$primary: #ff5e00;
+$body-bg: rgb(245, 245, 245);
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+
+.boja {
+    color: rgb(105, 105, 105);
+}
+.navRight {
+    font-size: 1.3rem;
+}
+.dog1 {
+    height: 200px;
+    width: 200px;
+}
+.card body p {
+    color: rgb(139, 139, 139);
+}
+.zasto {
+    width: 60%;
+}
+.tehn {
+    width: 150px;
+    height: 150px;
+}
+
+
+
+/*------------------------------------------
+.card-text {
+    
+    display: static;
+    height:270px;
+    text-align: justify;
+}
+
+
+*/
